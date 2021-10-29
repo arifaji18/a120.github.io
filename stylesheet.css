@@ -1,0 +1,10 @@
+.title {
+    color: #02ccb1;
+  }
+  div {
+    width: 1500px;
+    height: 1500px;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+  }
